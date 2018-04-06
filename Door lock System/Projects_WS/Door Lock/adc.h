@@ -1,7 +1,6 @@
 /*
  * adc.h
  *
- *  Created on: Sep 5, 2015
  *  Author: Mahmoud Megawer
  */
 

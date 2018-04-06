@@ -1,7 +1,6 @@
 /*
  * common_macros.h
  *
- * Created: 4/2/2014 7:47:21 PM
  * Author: Mahmoud Megawer
  */ 
 

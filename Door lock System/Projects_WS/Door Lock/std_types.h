@@ -1,8 +1,6 @@
 /** @file    STD_TYPE.h
  ** @brief   Standard Types header file for this program 
  ** @author  Mahmoud Megawer
- ** @date    22/1/2014
- ** @version 1.0
  */
 
 #ifndef STD_TYPES_H_
